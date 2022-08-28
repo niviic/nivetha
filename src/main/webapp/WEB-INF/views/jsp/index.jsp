@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; cloudcandy 2020</p>
+		<p>&copy; My Page</p>
 	</footer>
 </div>
 
